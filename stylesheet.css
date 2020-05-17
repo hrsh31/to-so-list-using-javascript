@@ -1,0 +1,6 @@
+.remove_btn{
+	display:none;
+}
+list-group .li:hover>.remove_btn{
+	dispaly:block;
+}
